@@ -4,5 +4,5 @@ header, section, footer, aside, nav, article, hgroup{
 
 body{
 	color: #666666;
-	background: url(stripe.png) repeat;
+	    background-image: url("stripe.gif");
 }
