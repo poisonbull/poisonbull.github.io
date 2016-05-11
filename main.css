@@ -6,3 +6,10 @@ body{
 	color: #666666;
 	    background-image: url("stripe.png");
 }
+
+.main{
+	margin: auto;
+	width: 60%;
+	background-color: white;
+	border-radius: 25px;
+}
