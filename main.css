@@ -1,7 +1,10 @@
-
 header, section, footer, aside, nav, article, hgroup{
 	display: block;
-} 
+}
+*{
+	padding: 0px;
+	margin: 0px;
+}
 
 body{
 	color: #666666;
