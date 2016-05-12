@@ -10,6 +10,9 @@ body{
 	color: #666666;
 	background-image: url("stripe.png");
 }
+h1{
+	font-family: "League Gothic";
+}
 
 .main{
 	margin: auto;
