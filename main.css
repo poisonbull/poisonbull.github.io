@@ -1,7 +1,11 @@
+*{
+	padding: 0;
+	margin: 0;
+}
 header, section, footer, aside, nav, article, hgroup{
 	display: block;
 } 
-
+d
 body{
 	color: #666666;
 	background-image: url("stripe.png");
