@@ -1,14 +1,13 @@
-*{
-	padding: 0px;
-	margin: 0px;
-}
+
 header, section, footer, aside, nav, article, hgroup{
 	display: block;
 } 
-d
+
 body{
 	color: #666666;
 	background-image: url("stripe.png");
+	padding: 0px;
+	margin: 0px;
 }
 
 .main{
