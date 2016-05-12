@@ -4,10 +4,7 @@ header, section, footer, aside, nav, article, hgroup{
 
 body{
 	color: #666666;
-<<<<<<< HEAD
-	background: url(stripe.png) repeat;
-=======
-	    background-image: url("stripe.png");
+	background-image: url("stripe.png");
 }
 
 .main{
@@ -15,7 +12,7 @@ body{
 	width: 60%;
 	background-color: white;
 	border-radius: 25px;
->>>>>>> 1ea8235fd7a7ededaffd6332176754e388f5d973
+
 }
 
 nav{
