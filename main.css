@@ -9,11 +9,10 @@ header, section, footer, aside, nav, article, hgroup{
 body{
 	color: #666666;
 	background-image: url("stripe.png");
-	font-family: Ubuntu, sans-serif;
-
+	font-family: 'Orbitron', sans-serif;
 }
 h1{
-    font-family: 'Ubuntu', "times new roman", times, roman, serif;
+  
 }
 
 .main{
